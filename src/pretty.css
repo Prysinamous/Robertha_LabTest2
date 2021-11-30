@@ -1,0 +1,46 @@
+body {
+    background-image: url("kawaii.jpg");
+    background-color: #cccccc;
+        font-family: cursive;
+  }
+  
+  h1 {
+    color: palevioletred;
+    text-align: center;
+    font-family: cursive;
+
+  }
+  
+  p {
+    font-family: cursive;
+    font-size: 20px;
+  }
+
+*
+{
+    box-sizing: border-box;
+    padding: 0;
+    margin:0;
+}
+
+.search
+{
+    width: 100%;
+    margin: 0 0 100px;
+}
+
+.searching
+{
+    display: block;
+    width: 100%;
+    padding: 30px;
+    background-color:beige;
+}
+
+.city
+{
+    color: beige;
+    text-align: center;
+    font-size: 15px;
+    font-weight: 50;
+}
